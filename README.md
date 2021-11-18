@@ -39,7 +39,13 @@
 
 **Run Vulnerability Scan**
 
+**OUTPUT**
+![scan](./openvas.PNG)  
+
 ## Docker-Compose YAML
+
 
 **How to create a docker-compose.yml file**
 
+**OUTPUT**
+![yml](./yml.PNG)
